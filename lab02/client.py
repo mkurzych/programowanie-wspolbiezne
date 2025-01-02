@@ -36,4 +36,3 @@ while True:
             break
         time.sleep(0.25)
 
-os.unlink(file)
